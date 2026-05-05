@@ -28,4 +28,4 @@ dataset across 156 countries from 2015 to 2019.
 - Or view the PDF export for a static version
 
 ## Live Dashboard
-[Click here to view live dashboard](your published link here)
+[Click here to view live dashboard](https://app.powerbi.com/groups/me/reports/b460e43e-53c4-42ac-b57b-26833e04f7a4/c765a7e07c0987665238?experience=power-bi)
